@@ -1,14 +1,13 @@
 # Gerald Ouma | Python Developer | Automation & AI Tools
 
-Building practical tools that solve real-world problems.
-Based in Nairobi, Kenya.
+Building practical tools that solve real-world problems. Based in Nairobi, Kenya.
 
 ## What I Build
 
-* 🐍 Data pipelines and automation tools with Python
-* ⚡ REST APIs with FastAPI and Flask
-* 🤖 Machine learning tools for fitness and performance tracking
-* 🌐 Browser-based applications with JavaScript and the Fetch API
+* Data pipelines and automation tools with Python
+* REST APIs with FastAPI and Flask
+* Machine learning tools for fitness and performance tracking
+* Browser-based applications with JavaScript and the Fetch API
 
 ## Current Projects
 
