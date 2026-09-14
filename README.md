@@ -1,17 +1,21 @@
-**Gerald Ouma | Python Developer | Automation & AI Tools**
+# Gerald Ouma | Python Developer | Automation & AI Tools
 
-Building practical tools that solve actual problems. Based in Nairobi, Kenya.
+Building practical tools that solve real-world problems.
+Based in Nairobi, Kenya.
 
-**What I Build**
-Data pipelines and automation scripts in Python
-REST APIs with FastAPI and Flask
-Machine learning tools for fitness and performance tracking
-Browser-based tools with JavaScript and the Fetch API
+## What I Build
 
-**Current Projects**
-smp-tracker: Daily performance tracker with ML-powered coaching
-api-dashboard: Multi-endpoint data dashboard with pandas reports
-browser-coach: Client-side AI coaching tool in JavaScript
+* 🐍 Data pipelines and automation tools with Python
+* ⚡ REST APIs with FastAPI and Flask
+* 🤖 Machine learning tools for fitness and performance tracking
+* 🌐 Browser-based applications with JavaScript and the Fetch API
 
-**Stack**
-Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
+## Current Projects
+
+* **smp-tracker** — Daily performance tracker with ML-powered coaching
+* **api-dashboard** — Multi-endpoint data dashboard with automated pandas reports
+* **browser-coach** — Client-side AI coaching tool built with JavaScript
+
+## Stack
+
+**Python** • **FastAPI** • **Pandas** • **scikit-learn** • **JavaScript** • **Git** • **Supabase**
